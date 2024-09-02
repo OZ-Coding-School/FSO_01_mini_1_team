@@ -1,0 +1,6 @@
+AppData/
+*.log
+*.tmp
+*.temp
+*.blf
+*.regtrans-ms
